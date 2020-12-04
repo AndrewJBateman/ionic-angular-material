@@ -1,21 +1,24 @@
 # Ionic Angular Material
 
-App created using the [Ionic 5 framework](https://ionicframework.com/docs) to use [mat select](https://material.angular.io/components/select/overview) to select from a list of options, [mat paginator](https://material.angular.io/components/paginator/overview) to navigate pages and [Material Stepper](https://material.angular.io/components/stepper/overview) to divide content into logical steps.
+* App created using the [Ionic 5 framework](https://ionicframework.com/docs) to use [mat select](https://material.angular.io/components/select/overview) to select from a list of options, [mat paginator](https://material.angular.io/components/paginator/overview) to navigate pages and [Material Stepper](https://material.angular.io/components/stepper/overview) to divide content into logical steps.
 
 ## Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Ionic Angular Material](#ionic-angular-material)
+  * [Table of contents](#table-of-contents)
+  * [General info](#general-info)
+  * [Screenshots](#screenshots)
+  * [Technologies](#technologies)
+  * [Setup](#setup)
+  * [Code Examples](#code-examples)
+  * [Features](#features)
+  * [Status & To-do list](#status--to-do-list)
+  * [Inspiration](#inspiration)
+  * [Contact](#contact)
 
 ## General info
 
-* Angular Material is the implementation of Material Design for Angular. It offers a wide range of components and patterns for navigation, forms, buttons, layouts etc. The latest version is 8.0.0 but version 7.3.7 is used here with Ionic.
+* Angular Material is the implementation of Material Design for Angular. It offers a wide range of components and patterns for navigation, forms, buttons, layouts etc.
 
 ## Screenshots
 
@@ -23,16 +26,15 @@ App created using the [Ionic 5 framework](https://ionicframework.com/docs) to us
 
 ## Technologies
 
-* [Ionic v5.0.0](https://ionicframework.com/)
-
-* [Angular v7.2.2](https://angular.io/)
-
-* [Ionic/angular v4.1.0](https://www.npmjs.com/package/@ionic/angular)
-
-* [Angular Material v7.3.7](https://material.angular.io/)
+* [Ionic v5](https://ionicframework.com/)
+* [Angular v11](https://angular.io/)
+* [Ionic/angular v5](https://www.npmjs.com/package/@ionic/angular)
+* [Angular Material v11](https://material.angular.io/)
 
 ## Setup
 
+* Run `npm i` to install dependencies
+* Run `ng lint` to lint files. All files pass linting
 * To start the server on _localhost://8100_ type: 'ionic serve'
 
 ## Code Examples
@@ -53,13 +55,12 @@ App created using the [Ionic 5 framework](https://ionicframework.com/docs) to us
 ## Status & To-do list
 
 * Status: Working.
-
-* To-do: try more of the functionality from Angular Material.
+* To-do: Nothing
 
 ## Inspiration
 
-Project inspired by [Simon Grimm´s Youtube video: ionic angular material](https://www.youtube.com/watch?v=pd-CF-dWEak)
+* Project inspired by [Simon Grimm´s Youtube video: ionic angular material](https://www.youtube.com/watch?v=pd-CF-dWEak)
 
 ## Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!

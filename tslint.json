@@ -4,11 +4,7 @@
     "codelyzer"
   ],
   "rules": {
-		"indent": [
-  		true,
-  		"tabs",
-  		2
-		],
+		"indent": false,
     "array-type": false,
     "arrow-parens": false,
     "deprecation": {
@@ -63,7 +59,7 @@
     "ordered-imports": false,
     "quotemark": [
       true,
-      "single"
+      "double"
     ],
     "trailing-comma": false,
     "no-output-on-prefix": true,
