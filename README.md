@@ -42,7 +42,7 @@
 
 * Run `npm i` to install dependencies
 * Run `ng lint` to lint files. All files pass linting
-* To start the server on _localhost://8100_ type: 'ionic serve'
+* To start the server on _localhost://8100_ type: `ionic serve`
 
 ## Code Examples
 
@@ -61,7 +61,7 @@
 
 ## Status & To-do list
 
-* Status: Working.
+* Status: Working. Updated may 2021.
 * To-do: Nothing
 
 ## Inspiration
