@@ -41,7 +41,6 @@
 ## :floppy_disk: Setup
 
 * Run `npm i` to install dependencies
-* Run `ng lint` to lint files. All files pass linting
 * To start the server on _localhost://8100_ type: `ionic serve`
 
 ## :computer: Code Examples
